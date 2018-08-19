@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDViettak", "HDViettak\HDVi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadHDViettak", "UploadHDViettak\UploadHDViettak.csproj", "{BAEAF1EC-DAA1-4424-BA20-6E52DF4BFBBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViettakInv", "..\AppTestAPI\ViettakInv\ViettakInv.csproj", "{5357B55F-C5C9-4FEE-A64A-9F2DDAC7A3A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViettakInv", "ViettakInv\ViettakInv.csproj", "{5357B55F-C5C9-4FEE-A64A-9F2DDAC7A3A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
